@@ -1,0 +1,26 @@
+body{
+    display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+width: 100vw;
+
+
+margin: 0;
+flex-direction: column;
+background-color: rgb(255, 251, 2);
+}
+div{
+    display: flex;
+
+justify-content: center;
+
+align-items: center;
+flex-wrap: wrap;
+}
+iframe{
+    width: 100vw;
+    height: 100vh;
+}

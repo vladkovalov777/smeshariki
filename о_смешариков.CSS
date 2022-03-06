@@ -1,0 +1,32 @@
+.крош{
+    width: 100vw;
+    height: 100vh;
+    background: url(https://peopletalk.ru/wp-content/uploads/2020/04/38238-pic4_zoom-1500x1500-50024.jpg);
+    background-size: cover;
+}
+body{
+    margin: 0;
+    background-color: rgb(255, 137, 2);
+}
+h1{
+    margin: 0;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(255, 115, 0);
+ 
+}
+.стрелка{
+position: fixed;
+top: 20px;
+right: 0vw;
+width: 100px;
+}
+.смешарики2{
+    width: 100vw;
+    text-align: center;
+    border-bottom: black 3px solid;
+    padding-bottom: 20px ;
+    margin-top: 20px;
+    
+}
+

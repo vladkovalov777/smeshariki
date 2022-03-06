@@ -1,0 +1,29 @@
+.картинка {
+    width: 80vw;
+    height: 80vh;
+}
+
+body {
+    text-align: center;
+    background-color: #078ef5;
+}
+
+a {
+    color: rgb(255, 0, 0);
+}
+
+a:visited {
+
+    color: rgb(1, 255, 1);
+
+}
+h1{
+    font-size: 50px;
+}
+.стрелка{
+    position: sticky;
+
+top: 20px;
+left: -40vw;
+width: 100px;
+}
